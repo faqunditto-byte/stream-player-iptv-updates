@@ -2,7 +2,7 @@
 
 Canal público de descarga y actualizaciones. No incluye fuentes, canales ni suscripciones.
 
-[Descargar Android 0.1.16](https://github.com/faqunditto-byte/stream-player-iptv-updates/releases/download/android-v0.1.16/Stream-Player-IPTV-Android-0.1.16-Prueba.apk)
+[Descargar Android 0.1.17](https://github.com/faqunditto-byte/stream-player-iptv-updates/releases/download/android-v0.1.17/Stream-Player-IPTV-Android-0.1.17-Prueba.apk)
 
 Instalá sobre la versión anterior sin desinstalar para conservar tus cuentas. Versión de prueba con nuevo diseño azul y anuncios de prueba.
 
